@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <p className='text-white text-2xl'>
+      <p className='text-white text-5xl '>
         Welcome back.
       </p>
     </>
